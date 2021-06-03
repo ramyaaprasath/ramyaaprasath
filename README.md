@@ -8,6 +8,6 @@ I am a Computer Science Sophomore student studying in MIT,Chennai. ✨👨‍�
 
 ### Github activity 🔥
 
-[![Ramyaa's github activity graph](https://activity-graph.herokuapp.com/graph?username=ramyaaprasath&theme=dracula)](https://github.com/ramyaaprasath/github-readme-activity-graph)
+[![Ramyaa's github activity graph](https://activity-graph.herokuapp.com/graph?username=ramyaaprasath&theme=react-dark)](https://github.com/ramyaaprasath/github-readme-activity-graph)
 
 
