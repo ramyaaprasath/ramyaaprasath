@@ -1,8 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Ramyaa Prasath](https://github.com/ramyaaprasath)!
 
-I am a Computer Science Sophomore student studying in MIT,Chennai. ✨👨‍💻
+I am a Computer Science Sophomore student studying in MIT,Chennai. 👩🏻‍💻
 
-### Github stats
+### Github stats ✨
 
 ![Ramyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramyaaprasath&show_icons=true&theme=react)
 
