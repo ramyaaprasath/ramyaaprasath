@@ -4,7 +4,7 @@ I am a Computer Science Sophomore student studying in MIT,Chennai. ✨👨‍�
 
 ### Github stats
 
-![Ramyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramyaaprasath&show_icons=true&theme=tokyonight)
+![Ramyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramyaaprasath&show_icons=true&theme=gruvbox)
 
 
 ### Find me elsewhere 🌎
