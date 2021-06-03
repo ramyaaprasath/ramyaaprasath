@@ -6,3 +6,8 @@ I am a Computer Science Sophomore student studying in MIT,Chennai. ✨👨‍�
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramyaa-prasath-5b85a91a3/)](https://www.linkedin.com/in/ramyaa-prasath-5b85a91a3/)
 
+### Github activity 🔥
+
+[![Ramyaa's github activity graph](https://activity-graph.herokuapp.com/graph?username=ramyaaprasath&theme=dracula)](https://github.com/ramyaaprasath/github-readme-activity-graph)
+
+
