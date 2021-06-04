@@ -6,6 +6,9 @@ I am a 2nd year Computer Science student studying in MIT,Chennai. 👩🏻‍�
 
 ![Ramyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramyaaprasath&show_icons=true&theme=react)
 
+### Languages used 🥶
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyaaprasath&layout=compact)](https://github.com/ramyaaprasath/github-readme-stats)
 
 ### Find me elsewhere 🌎
 
