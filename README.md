@@ -11,6 +11,10 @@ I am a 2nd year Computer Science student studying in MIT,Chennai. 👩🏻‍�
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ramyaa-prasath-5b85a91a3/)](https://www.linkedin.com/in/ramyaa-prasath-5b85a91a3/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ramyaaprasath13?hr_r=1/)](https://www.hackerrank.com/ramyaaprasath13?hr_r=1/)
 
+## Language Card 🎆
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyaaprasath&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
