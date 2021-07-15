@@ -13,6 +13,7 @@ I am a 2nd year Computer Science student studying in MIT,Chennai. 👩🏻‍�
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ramyaaprasath/)](https://www.linkedin.com/in/ramyaaprasath/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ramyaaprasath13?hr_r=1/)](https://www.hackerrank.com/ramyaaprasath13?hr_r=1/)
+[![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@ramyaaprasath)
 
 
 
