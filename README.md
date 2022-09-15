@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Ramyaa Prasath](https://github.com/ramyaaprasath)!
 
-I am a 3rd year Computer Science student studying in MIT,Chennai. 👩🏻‍💻
+I am a final year Computer Science student studying in MIT,Chennai. 👩🏻‍💻
 
 ### Github stats ✨
 
